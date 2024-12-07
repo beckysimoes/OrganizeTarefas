@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Contador de Tarefas
 
 let tarefas = [];
@@ -9,3 +10,6 @@ function adicionarTarefa(tarefa) {
 
 adicionarTarefa("Estudar Git");
 adicionarTarefa("Revisar código do projeto");
+=======
+
+>>>>>>> 981879f93b215f097b4d619d220d223011e02efa
